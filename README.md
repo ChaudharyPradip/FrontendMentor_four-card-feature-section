@@ -54,6 +54,6 @@ There was not much to learn in this project as it wasn't that much hard. Althoug
 
 ## Author
 
-- Website - [Pradip Chaudhary](https://www.your-site.com)
+<!--- - Website - [Pradip Chaudhary](https://www.your-site.com) --->
 - Frontend Mentor - [@ChaudharyPradip](https://www.frontendmentor.io/profile/ChaudharyPradip)
 - Twitter - [@thePradiptalks](https://www.twitter.com/thePradiptalks)
